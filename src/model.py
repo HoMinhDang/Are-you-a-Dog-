@@ -28,3 +28,7 @@ class SimpleCNNDog(nn.Module):
         x = self.dropout(self.relu(self.fc2(x)))
         x = self.fc3(x)
         return x
+
+if __name__ == "__main__":
+    model = SimpleCNNDog()
+    print(model)
