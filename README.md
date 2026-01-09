@@ -12,6 +12,8 @@ Training dataset for this project comes from the following datasets:
 - [Selfies](https://www.kaggle.com/datasets/jigrubhatt/selfieimagedetectiondataset)
 - [Random images](https://www.kaggle.com/datasets/shamsaddin97/image-captioning-dataset-random-images?resource=download)
 
+My dataset: [dataset](https://www.kaggle.com/datasets/hominhdang/are-you-dog/data)
+
 Data preprocess is simple: resized and normalized.
 
 ## Model
